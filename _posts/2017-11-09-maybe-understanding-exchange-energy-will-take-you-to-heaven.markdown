@@ -1,21 +1,12 @@
 ---
 author: pensivelydistilled
-comments: true
 date: 2017-11-09 17:08:56+00:00
-excerpt: A wishy-washy introduction to a concept that is "established" while still
-  being rather mysterious.
+excerpt: A wishy-washy introduction to a concept that is "established" while still being rather mysterious.
 layout: post
-link: https://chroniclesofillumination.wordpress.com/2017/11/09/maybe-understanding-exchange-energy-will-take-you-to-heaven/
 slug: maybe-understanding-exchange-energy-will-take-you-to-heaven
 title: Maybe, understanding Exchange Energy will take you to "heaven"
-wordpress_id: 147
-categories:
-- Electronic Structure
-- Material Science
-tags:
-- dft
-- exchange_interaction
-- quantum_chemistry
+categories: Electronic_Structure Materials_Science
+tags: dft exchange_interaction quantum_chemistry
 ---
 
 First off, I'll establish that I don't have anything against religion and have no intention of debating on the existence of God. I'd call myself a believer in God, but that's purely my choice and I'll leave you to choose yours. What I mean by "heaven" here is the meaning we intend when we use the word informally - a place, state, or experience of supreme bliss.

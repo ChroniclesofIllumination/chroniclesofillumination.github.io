@@ -1,21 +1,12 @@
 ---
 author: pensivelydistilled
-comments: true
 date: 2017-12-30 17:43:27+00:00
-excerpt: My experiences on how one can explore their personally uncharted territories,
-  meaning, new concepts that seem almost alien, with a positve attitude.
+excerpt: My experiences on how one can explore their personally uncharted territories, meaning, new concepts that seem almost alien, with a positve attitude.
 layout: post
-link: https://chroniclesofillumination.wordpress.com/2017/12/30/a-controlled-experiment-on-control-engineering/
 slug: a-controlled-experiment-on-control-engineering
 title: A Controlled Experiment on Control Engineering
-wordpress_id: 225
-categories:
-- Engineering
-- Report
-tags:
-- control_engineering
-- learning
-- tools
+categories: Engineering Report
+tags: control_engineering learning tools
 ---
 
 [Control Engineering](https://en.m.wikipedia.org/wiki/Control_engineering) is one of the most crucial aspects of designing a system for an application. In this era where Machine Learning is omnipresent, we often see examples of machines performing human-like activities, be it participating in intelligent conversations or driving vehicles. But control engineering gives us a much simpler and "hardware based" route to get machines perform useful (and entertaining) activities, and obviously, they it has been around for a long time.
@@ -27,5 +18,3 @@ I admit that when I started my journey, I made next to no progress. I didn't und
 Every couple of days, I would unearth some new concept that would strengthen my basics in a way which would make it simpler for me to understand the topic I had learned a few days before. I would then revisit those topics at a glance and try to fit everything had amassed so far into a possibly wholesome mental picture. Bit by bit, it seemed like my actual work would finally start making progress. Whether it will or not is a different question altogether.
 
 I would declare that my attempt as fruitful : a controlled experiment on control engineering.
-
-

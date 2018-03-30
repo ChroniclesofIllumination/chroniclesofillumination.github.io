@@ -1,22 +1,12 @@
 ---
 author: pensivelydistilled
-comments: true
 date: 2017-11-06 16:59:11+00:00
-excerpt: A simple example of how one may not ever be able to write about linear algebra
-  without digressing to multiple other topics while staying on point.
+excerpt: A simple example of how one may not ever be able to write about linear algebra without digressing to multiple other topics while staying on point.
 layout: post
-link: https://chroniclesofillumination.wordpress.com/2017/11/06/one-cant-run-from-linear-algebra-forever/
 slug: one-cant-run-from-linear-algebra-forever
 title: One can't run from Linear Algebra forever
-wordpress_id: 73
-categories:
-- Linear Algebra
-- Mathematics
-tags:
-- eigenvalues
-- lu_decomposition
-- pca
-- svd
+categories: Linear_Algebra Mathematics
+tags: eigenvalues lu_decomposition pca svd
 ---
 
 Linear Algebra is omnipresent. You learn it when you start learning vectors and graphs of straight lines and planes, you also learn it if you're doing Quantum Mechanics, Computational Engineering or Machine Learning. It occupies a niche area in Mathematics by being equally appreciated by both Pure and Applied Mathematicians.  The reason why it's very useful is probably because it addresses fundamental questions, who knew linear equations could have such vast reaches?

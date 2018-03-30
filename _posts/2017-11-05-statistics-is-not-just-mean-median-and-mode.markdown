@@ -1,21 +1,12 @@
 ---
 author: pensivelydistilled
-comments: true
 date: 2017-11-05 16:16:47+00:00
-excerpt: Realising that there's more to statistics than what meets the high-school
-  student.
+excerpt: Realising that there's more to statistics than what meets the high-school student.
 layout: post
-link: https://chroniclesofillumination.wordpress.com/2017/11/05/statistics-is-not-just-mean-median-and-mode/
 slug: statistics-is-not-just-mean-median-and-mode
 title: Statistics is NOT just Mean, Median and Mode
-wordpress_id: 22
-categories:
-- Mathematics
-- Statistics
-tags:
-- box_plot
-- data
-- tools
+categories: Mathematics Statistics
+tags: box_plot data tools
 ---
 
 Today, being [Hirotugu Akaike](https://en.wikipedia.org/wiki/Hirotugu_Akaike)'s birthday, is an apt day to appreciate Statistics. While it isn't true that I've never underestimated statistics or its power, I wasn't the person inclined towards learning more about it. I left it for "others" to pursue while just getting away with knowing how to do the calculations of standard deviations for fictitious "Class Marks" datasets that creep their way into every Mathematics exam that had Statistics in its syllabus. I never got the answers right, but that's beside the point. Now that I'm finally allowed to use calculators to do the dirty work, I see the beauty that lies beneath. So, yes, this is not a lament.
