@@ -5,7 +5,6 @@ excerpt: Realising that there's more to statistics than what meets the high-scho
 layout: post
 slug: statistics-is-not-just-mean-median-and-mode
 title: Statistics is NOT just Mean, Median and Mode
-categories: Mathematics Statistics
 tags: box_plot data tools
 ---
 

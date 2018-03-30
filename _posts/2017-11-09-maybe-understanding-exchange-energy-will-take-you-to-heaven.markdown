@@ -5,7 +5,6 @@ excerpt: A wishy-washy introduction to a concept that is "established" while sti
 layout: post
 slug: maybe-understanding-exchange-energy-will-take-you-to-heaven
 title: Maybe, understanding Exchange Energy will take you to "heaven"
-categories: Electronic_Structure Materials_Science
 tags: dft exchange_interaction quantum_chemistry
 ---
 

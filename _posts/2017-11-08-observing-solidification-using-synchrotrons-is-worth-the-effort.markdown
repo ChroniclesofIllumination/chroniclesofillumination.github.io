@@ -6,7 +6,6 @@ excerpt: How some amount of curiosity gets amply rewarded when it comes to obser
 layout: post
 slug: observing-solidification-using-synchrotrons-is-worth-the-effort
 title: Observing solidification using synchrotrons is worth the effort.
-categories: Materials_Science Solidification
 tags: synchrotron tools x-rays
 ---
 

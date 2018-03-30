@@ -5,7 +5,6 @@ excerpt: A simple example of how one may not ever be able to write about linear 
 layout: post
 slug: one-cant-run-from-linear-algebra-forever
 title: One can't run from Linear Algebra forever
-categories: Linear_Algebra Mathematics
 tags: eigenvalues lu_decomposition pca svd
 ---
 

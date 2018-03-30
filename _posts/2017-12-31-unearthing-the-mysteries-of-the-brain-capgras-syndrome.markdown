@@ -5,7 +5,6 @@ excerpt: What the Capgras Syndrome is, why does it occur and where to learn more
 layout: post
 slug: unearthing-the-mysteries-of-the-brain-capgras-syndrome
 title: Unearthing the Mysteries of the Brain - Capgras Syndrome
-categories: Brain
 tags: cognition
 ---
 

@@ -4,7 +4,6 @@ date: 2017-11-05 15:16:56+00:00
 excerpt: Quick intro to the blog.
 slug: the-ascent-begins
 title: The Ascent Begins
-categories: Announcement
 tags: update
 ---
 

@@ -5,7 +5,6 @@ excerpt: My experiences on how one can explore their personally uncharted territ
 layout: post
 slug: a-controlled-experiment-on-control-engineering
 title: A Controlled Experiment on Control Engineering
-categories: Engineering Report
 tags: control_engineering learning tools
 ---
 

@@ -5,7 +5,6 @@ excerpt: Musing on the usefulness of instruments that are often underestimated a
 layout: post
 slug: potentiostats-are-a-huge-deal
 title: Potentiostats are a huge deal
-categories: Engineering
 tags: corrosion potentiostat
 ---
 
