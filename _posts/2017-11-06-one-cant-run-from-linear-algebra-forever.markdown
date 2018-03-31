@@ -1,5 +1,5 @@
 ---
-author: pensivelydistilled
+author: Mythreyi
 date: 2017-11-06 16:59:11+00:00
 excerpt: A simple example of how one may not ever be able to write about linear algebra without digressing to multiple other topics while staying on point.
 layout: post

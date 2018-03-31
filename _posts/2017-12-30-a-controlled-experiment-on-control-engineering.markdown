@@ -1,5 +1,5 @@
 ---
-author: pensivelydistilled
+author: Mythreyi
 date: 2017-12-30 17:43:27+00:00
 excerpt: My experiences on how one can explore their personally uncharted territories, meaning, new concepts that seem almost alien, with a positve attitude.
 layout: post

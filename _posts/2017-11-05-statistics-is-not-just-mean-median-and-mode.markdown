@@ -1,5 +1,5 @@
 ---
-author: pensivelydistilled
+author: Mythreyi
 date: 2017-11-05 16:16:47+00:00
 excerpt: Realising that there's more to statistics than what meets the high-school student.
 layout: post

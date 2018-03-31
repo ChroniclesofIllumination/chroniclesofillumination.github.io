@@ -1,5 +1,5 @@
 ---
-author: pensivelydistilled
+author: Mythreyi
 date: 2017-12-31 16:08:53+00:00
 excerpt: What the Capgras Syndrome is, why does it occur and where to learn more about this and many other intricacies of the brain.
 layout: post

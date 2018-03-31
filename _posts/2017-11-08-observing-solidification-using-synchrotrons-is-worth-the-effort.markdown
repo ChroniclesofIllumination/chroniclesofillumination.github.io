@@ -1,5 +1,5 @@
 ---
-author: pensivelydistilled
+author: Mythreyi
 comments: true
 date: 2017-11-08 17:35:08+00:00
 excerpt: How some amount of curiosity gets amply rewarded when it comes to observing dendritic growth during solidification.
