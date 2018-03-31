@@ -32,16 +32,15 @@ This has been in the back of my mind for a long while now. I've had my fill of [
 
       - There's a mistake in the code to be added to the `_includes/head.html` file. The condition always evaluates to false, modify it to :
 
-        ```ruby
+        ```ruby        {% raw %}
         {% if site.tags == "" %}
           {% include collecttags.html %}
-        {% endif %}
+        {% endif %}        {% endraw %}
         ```
 
       - The _tag_generator.py_ file needs to be tweaked for it to work properly. The default export using the _Exitwp_ tool is a **.markdown** file not a **.md** file, hence the appropriate change is needed in [this](https://github.com/qian256/qian256.github.io/blob/4c1239bf085d30d81c8df2e1bb41c21f5754192e/tag_generator.py#L19) line.
-
       Once you generate the different _tag_ pages, they will all get added to the  **header** section of your blog (making it a collossal mess). To avoid this, you can specify the list of pages you want in your header though `header_pages: ` in the `_config.yml` file. For intance, my page's `_config.yml` reads so:
-
+      
       ```ruby
       header_pages:
         - about.md
