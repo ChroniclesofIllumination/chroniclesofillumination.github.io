@@ -26,7 +26,8 @@ twitter_username: epicreyi
 github_username:  MyRa-7
 
 header_pages:
-  - about.html
+  - about.md
+  - undocumented-explorations.md
 
 # Build settings
 markdown: kramdown
