@@ -10,10 +10,12 @@ permalink: /explorations
 * Defects in Materials (Point, Line, 3D)
 * Integrated Computational Materials Engineering
 * Advanced Product Quality Planning
-* Phantoms in the Brain
 * Simulink Basics and MATLAB's Control Toolbox
 * Inverted Pendulum on a Cart
 * Energy-controlled methods for Swing-up of an Inverted Pendulum
 * Linear Quadratic Regulator
 * State Space Representation, Observability, Controllability
 * Thermodynamics - A deep understanding of First and Second Laws
+* CALPHAD - An overview
+* Solidification - Stephan's problem, MS Criterion etc
+* Fourier Analysis and Uncertainty Theorem
