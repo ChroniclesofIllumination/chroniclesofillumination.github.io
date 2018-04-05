@@ -39,15 +39,16 @@ This has been in the back of my mind for a long while now. I've had my fill of [
         ```
 
       - The _tag_generator.py_ file needs to be tweaked for it to work properly. The default export using the _Exitwp_ tool is a **.markdown** file not a **.md** file, hence the appropriate change is needed in [this](https://github.com/qian256/qian256.github.io/blob/4c1239bf085d30d81c8df2e1bb41c21f5754192e/tag_generator.py#L19) line.
-      Once you generate the different _tag_ pages, they will all get added to the  **header** section of your blog (making it a collossal mess). To avoid this, you can specify the list of pages you want in your header though `header_pages: ` in the `_config.yml` file. For intance, my page's `_config.yml` reads so:
-      
+
+        Once you generate the different _tag_ pages, they will all get added to the  **header** section of your blog (making it a collossal mess). To avoid this, you can specify the list of pages you want in your header though `header_pages: ` in the `_config.yml` file. For instance, the `_config.yml` of this website reads as:
+
       ```ruby
       header_pages:
         - about.md
         - undocumented-explorations.md
       ```
 
-      Both these files exist in the root directory of my site at the moment, else, the full path must be specified.
+      Both these files exist in the root directory of my site at the moment. If this is not the case, the full path must be specified.
 
 So there it is. That's how to switch and have a functional website up and running. There are naturally a lot of things that can be modified, starting with the looks and also additional functionalities. But I plan to take them all up later, one at a time.
 
