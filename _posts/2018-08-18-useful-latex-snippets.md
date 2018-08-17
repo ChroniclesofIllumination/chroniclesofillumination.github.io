@@ -1,4 +1,3 @@
-```
 ---
 author: Mythreyi
 date: 2018-08-18 00:05:11+00:00
@@ -8,7 +7,6 @@ slug: latex-snippets
 title: Useful $\LaTeX$ Snippets
 tags: tools
 ---
-```
 
 There have been many a time where I have gone to previous .tex files that I have created to retrieve a specific snippet of \\(\LaTeX\\) code. Since reusability is one strong point for \\(\LaTeX\\), I think a collection of these snippets in one place will be pretty useful, especially for last-minute maths assignments. :P
 
